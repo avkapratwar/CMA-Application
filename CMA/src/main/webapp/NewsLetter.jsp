@@ -1,0 +1,136 @@
+<html>
+<head>
+<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+</style>
+
+<link href="resources/CSS/bootstrap.min.css" rel="stylesheet">
+<link href="resources/CSS/style.css" rel="stylesheet">
+<link href="resources/CSS/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div>
+<img src="resources/images/logo-hcu.png" style="width:500px;height:170px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="ApplicationForm.jsp"><img src="resources/images/admission.png" style="width:250px;height:170px;" alt="registration open"></a><img src="resources/images/leftpoint.gif" style="width:50px;height:50px;" alt="vb">click logo</a><br/><br/>
+</div>
+<hr>
+<div class="navbar">
+  <a href="index.jsp">Home</a>
+  <a href="UohAboutus.jsp">Aboutus</a>
+  <a href="News.jsp">News</a>
+  <a href="Academics.jsp">Academics</a>
+  <a href="NewsLetter.jsp">NewsLetter</a>
+  <a href="AntiRagging.jsp">AntiRagging</a>
+  <a href="Applicationstatus.jsp">Applicationstatus</a>
+  <a href="LoginStatus.jsp">Loginstatus</a>
+  <a href="MainLogin.jsp">Login</a>
+</div>
+<div class="container">
+<center>
+<h1>News Letter</h1>
+<hr>
+</center>
+
+<h4><b>Moses Abraham presents poster at MC14 Conference in UK</b></h4>
+<p align="justify">Mr. B. Moses Abraham, Senior Research Fellow in the Advanced Centre of Research in High Energy Materials (ACRHEM), University of Hyderabad (UoH) attended the “14th International Conference on Materials Chemistry (MC14)” which was organized by Royal Society of Chemistry at Aston University, United Kingdom from 8th– 11th July 2019.</p>
+
+
+
+<h4><b>Public Lecture on Draft National Educational Policy: Key Features of Higher Education</b></h4>
+<p align="justify">University of Hyderabad hosted a public lecture on the ‘Draft National Educational Policy: Key Features of Higher Education’ delivered by the Chairman of National Educational Policy (NEP), Dr. K Kasturirangan at Savitribai Phule – DST Auditorium. Vice Chancellor of UoH, Prof. Appa Rao Podile presided over the event and introduced the speaker. Dr. K Kasturirangan is an eminent scientist who headed Indian Space Research Organization from 1994 to 2003 and headed various other eminent institutes. He is a former member of Rajya Sabha (2003-2009) and former member of Planning Commission of India. He is also a recipient of major civilian award Padma Vibhushan in 2000. He was felicitated by the Vice Chancellor after the lecture. Vote of Thanks is delivered by Pro-Vice-Chancellor – 2 Prof. B Raja Sekhar.</p>
+
+
+
+<h4><b>Honour for UoH faculty</b></h4>
+<p align="justify">S. Sarat Jyothsna Rani, Dean, School of Humanities, University of Hyderabad has been awarded with Srujana Mahila Life Time Achievement and Excellency Award by Srujana Cultural & literary Organisation on 9th March, 2019 and Apuroopa Awards – 2019 by Amruthalatha organization, Nizamabad on 12th May, 2019 at Potti Sreeramulu Telugu University, Hyderabad.</p>
+
+<h4><b>Innovative Measures to Leverage Graded Autonomy</b></h4>
+<p align="justify">Unveiling a series of innovative measures to leverage the recently conferred Graded Autonomy, the University of Hyderabad is set to energize its academic programs, especially its research components.
+
+The Finance Committee and the Executive Council recently approved these measures.
+
+Two new cadres, University Distinguished Professors and University Research Professors, to be instituted. These positions, awarded through a rigorous process of scrutiny by external experts, are primarily geared towards facilitating the highly productive and recognized researchers in the University. These posts come with specific privileges in terms of emoluments, facilities and workload (in terms of, for example, teaching and courses they can be expected to offer). The expectations are, naturally, of continuing if not enhanced output of quality publications, patents and other outcomes. With this measure, the University hopes to not only reward its best researchers but also position itself as a top-class space for research, where the work by such Professors will be highlighted.</p>
+
+<h4><b>Prestigious Indo-Japan Research Project to the School of Physics</b></h4>
+<p align="justify">
+Dr. Venkataiah Gorige, Assistant Professor, School of Physics, University of Hyderabad (UoH) has been awarded an Indo-Japan bilateral collaborative research project entitled “Interfacial multiferroic magnons: understanding of cross-correlation towards magnonic logic circuit applications”. The project has been jointly approved by the Department of Science and Technology (DST), Govt. of India and Japan Society for the Promotion of Science (JSPS), Japan. The project has been approved for the areas of Fundamental Science: Physical and Chemical Systems based on the scientific strength, technical aspects, project objectives and national priorities of both the countries.
+</p>
+
+</div>
+<hr>
+<div class="lates">
+
+		
+
+			<div class="text-center">
+
+				<h2>&nbsp;&nbsp;OUR UNIVERSITY</h2>
+
+			</div>
+
+			<div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+
+				<img src="resources/images/LAB.jpg" class="img-responsive">
+
+				<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LABS </h3>
+
+				<p align="justify">The laboratories are fully equipped with complete set of latest equipments and tools, which caters to the need of the undergraduate and post graduate students and has experienced technical staff from industrial background.</p>
+
+		  </div>
+
+			
+
+			<div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+
+				<img src="resources/images/LIB.jpeg" class="img-responsive"><br/><br/><br/>
+
+				<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LIBRARY</h3>
+
+				<p align="justify">The college has a very good Library, computing and internet facilities. The library has total volumes of 16,216(2849 titles) in addition to a good number of both National and International journals. It has e-journal subscription available through DELNET. The students are encouraged to make full use of the Central Library, Digital Library and other facilities.</p>
+
+		  </div>
+
+			
+
+			<div class="col-md-4">				
+
+				<img src="resources/images/ctc offered ug.jpg" class="img-responsive">
+
+				<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PLACEMENT</h3>
+
+				<p align="justify" class="text-justify">The Training &amp; Placement Cell at UoH is a very strong department with an impeccable track record in placing students right after their graduation. The Training &amp; Placement Cell constantly keeps in touch with HRs of various major MNCs and IT companies to enhance the employability of the students.</p>
+
+		  </div>
+
+	 
+
+  </div>
+</body>
+</html>

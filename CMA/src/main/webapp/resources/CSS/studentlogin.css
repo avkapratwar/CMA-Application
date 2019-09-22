@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+.logo img{
+    margin-top: 13px;
+    width: 100% !important;
+}
+.call_us{
+	margin-top: 30px;
+    margin-left:30px;
+}
+.call_us span {
+    font-size: 18px;
+}
+.call_us a {
+    color: black;
+    text-decoration: none;
+}
+.call_us a:hover {
+    color: white;
+   
+}
+.call_us b{
+	font-size: 20px;
+    color:black;
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    padding: 0px ; 
+ }
+.dropdown-menu>li>a {
+    display: block;
+    padding: 10px 20px;
+    background:black;
+    color: white;
+	font-size: 18px;
+}
+.dropdown-menu>li>a:hover {
+    color: white;
+    text-decoration: none;
+    background-color: black;
+}
+.active{
+ background-color:black;
+}
+/* footer start */
+.footer{
+	margin-top: 12px;
+}
+.row h4{
+	background:black;
+    padding: 12px;
+    color: #FFF;
+}
+.footer .row a img{
+    width: 240px;
+    margin-bottom: 10px;
+}
+.row ul{
+	list-style: none;
+    line-height: 23px;
+}
+.row ul li{
+	margin-left: 10px;
+	font-size: 15px;
+}
+.row p{
+	font-size:15px;
+}
+.copyright {
+    text-align: center;
+    font-size: 14px;
+	line-height: 20px;
+	margin-bottom:20px;
+}
+.copyright a:hover {
+    color:#333;
+ }
+.navbar-toggle {
+   position: relative;
+    float: right;
+    padding: 3px 3px;
+    margin-top: 13px;
+    border-radius: 4px;
+}
+.on_the_sides {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+}
+.margin-top2 {
+    margin-top: 20px !important;
+}
+.login_with > .left_side {
+    width: 30%;
+}
+.on_the_sides > [class*="_side"] {
+    display: table-cell;
+    vertical-align: middle; 
+}
+.on_the_sides > .right_side {
+    text-align: right;
+	
+}
+.left_side a{color:black;}
+.left_side a:hover{
+	color:#333;
+	text-decoration:none;
+}
+.btn-success.active{
+	width: 129px;
+    margin: 10px;
+    background-color: black;
+	border-color:black;
+    color: #FFF;
+	font-size: 17px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.btn-success.active:hover{
+	color:#FFF;
+	background:#ddd;
+	color:black;
+}	
+.heading{
+	font-size: 25px;
+    text-align: center;
+    color: black;
+}
+.required::after,.prompt::before{
+	content:"*";
+	color:#ff0000;
+	display:inline-block;
+	margin-left:4px;
+	font-size: 15px;
+}
+.row{
+	list-style:none;
+}
+.section_offset{
+	background-color: gainsboro;
+    padding: 18px;
+}
+

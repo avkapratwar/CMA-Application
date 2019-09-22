@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Add Courses</title>
+<style>
+body{
+  background-image:url("images/img1.jpg");
+}
+.txt
+{
+color:yellow
+}
+</style>
+</head>
+<center>
+<body>
+<form  action="AddCourseServlet"  method="post">
+<h1  class="txt" > COURSES </h1>
+<br>
+<table>
+
+<tr>
+<td><h3  class="txt">COURSEID</h3></td><td><input type="text" name="cid" required></td>
+</tr>
+
+<tr>
+<td><h3  class="txt">COURSENAME</h3></td><td><input type="text" name="cname" required></td>
+</tr>
+
+
+
+
+<tr>
+<td><h3  class="txt">STARTDATE</h3></td><td><input type="date" name="sdate" placeholder="MM/dd/yyyy" required></td>
+</tr>
+
+<tr>
+<td>
+<h3  class="txt">ENDDATE</h3></td><td><input type="date" name="edate" placeholder="MM/dd/yyyy" required></td>
+</table>
+<input type="submit" value="ADD">
+</form>
+</body>
+</center>
+</html>
